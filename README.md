@@ -1,0 +1,12 @@
+Project Description: Breast Cancer Education and Diagnosis Application
+The objective of this project was to develop an interactive application aimed at educating users about breast cancer, applicable to both men and women. This comprehensive platform not only provides valuable information but also incorporates advanced machine learning capabilities to enhance user experience and understanding.
+Key Features
+Educational Content: The app offers extensive resources on breast cancer, including its types, symptoms, treatment options, and preventive measures. This information is designed to empower users with knowledge about the disease.
+Chatbot Integration: A key feature of the application is a chatbot named Alita. This AI-driven assistant allows users to ask questions and receive immediate responses, making it easier for individuals to seek information in a conversational manner.
+Report Analysis: Users can upload their hospital reports for analysis. The machine learning model trained within the app interprets these reports, determining whether the results indicate a positive or negative diagnosis for breast cancer. This feature is particularly useful for users who may struggle to understand medical jargon.
+MRI Scan Interpretation: The application also includes functionality for reading MRI scans. By employing image recognition algorithms, it assists in identifying abnormalities, thus providing insights into potential health issues related to breast cancer.
+Helpline Support: To cater to users who prefer direct communication, a helpline is available for those who find it challenging to use the online chatbot. This ensures that help is accessible regardless of the user's comfort with technology.
+Technical Implementation
+The project was developed using Python programming language, leveraging the Streamlit framework for creating interactive web applications. The development environment was Visual Studio Code (VS Code), which facilitated efficient coding and debugging processes.
+The machine learning models were trained on relevant datasets, including clinical reports and MRI images, ensuring accuracy in diagnosis and interpretation. This combination of educational resources and advanced technology aims to bridge the gap between medical knowledge and patient understanding.
+Overall, this project not only serves as an educational tool but also as a supportive resource for individuals navigating the complexities of breast cancer diagnosis and treatment.
